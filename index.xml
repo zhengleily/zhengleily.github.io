@@ -34,9 +34,9 @@
     
     <item>
       <title>Learning-Based Safety-Stability-Driven Control for Safety-Critical Systems under Model Uncertainties</title>
-      <link>https://zhengleily.github.io/publication/my-pub1/</link>
+      <link>https://zhengleily.github.io/publication/2020wcsp/</link>
       <pubDate>Wed, 05 Oct 2022 10:49:23 +0800</pubDate>
-      <guid>https://zhengleily.github.io/publication/my-pub1/</guid>
+      <guid>https://zhengleily.github.io/publication/2020wcsp/</guid>
       <description></description>
     </item>
     
@@ -50,6 +50,25 @@ We can add a formula&lt;/p&gt;
 &lt;p&gt;$$
 x_{2} = 3 b
 $$&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Safe learning-based tracking control for quadrotors under wind disturbances</title>
+      <link>https://zhengleily.github.io/publication/2021acc/</link>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://zhengleily.github.io/publication/2021acc/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -272,10 +291,18 @@ The critical element in developing autonomous car-following strategies by reinfo
     </item>
     
     <item>
-      <title>Safe learning-based gradient-free model predictive control based on cross-entropy method</title>
-      <link>https://zhengleily.github.io/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://zhengleily.github.io/publication/example/</guid>
+      <title></title>
+      <link>https://zhengleily.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://zhengleily.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning-Based Predictive Path Following Control for Nonlinear Systems Under Uncertain Disturbances</title>
+      <link>https://zhengleily.github.io/publication/2021ral/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://zhengleily.github.io/publication/2021ral/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -291,18 +318,29 @@ The critical element in developing autonomous car-following strategies by reinfo
     </item>
     
     <item>
-      <title></title>
-      <link>https://zhengleily.github.io/admin/config.yml</link>
+      <title>Safe learning-based tracking control for quadrotors under wind disturbances</title>
+      <link>https://zhengleily.github.io/publication/2022eaai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://zhengleily.github.io/admin/config.yml</guid>
-      <description></description>
+      <guid>https://zhengleily.github.io/publication/2022eaai/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Learning-Based Predictive Path Following Control for Nonlinear Systems Under Uncertain Disturbances</title>
-      <link>https://zhengleily.github.io/publication/my-publication/</link>
+      <title>Safe learning-based tracking control for quadrotors under wind disturbances</title>
+      <link>https://zhengleily.github.io/publication/2022ral/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://zhengleily.github.io/publication/my-publication/</guid>
+      <guid>https://zhengleily.github.io/publication/2022ral/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
