@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://zhengleily.github.io/categories/</loc>
+    <loc>http://zhengleily.github.io/posts/my-first-post/</loc>
+    <lastmod>2022-10-08T16:58:30+08:00</lastmod>
   </url>
   
   <url>
     <loc>http://zhengleily.github.io/</loc>
+    <lastmod>2022-10-08T16:58:30+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://zhengleily.github.io/posts/</loc>
+    <lastmod>2022-10-08T16:58:30+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://zhengleily.github.io/categories/</loc>
   </url>
   
   <url>
