@@ -1,61 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
+  <url>
+    <loc>http://zhengleily.github.io/categories/</loc>
+  </url>
   
   <url>
-    <loc>https://zhengleily.github.io/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://zhengleily.github.io/</loc>
+  </url>
+  
   <url>
-    <loc>https://zhengleily.github.io/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://zhengleily.github.io/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://zhengleily.github.io/categories/</loc><lastmod>2022-09-25T14:45:22+08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://zhengleily.github.io/category/general/</loc><lastmod>2022-09-25T14:45:22+08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://zhengleily.github.io/post/</loc><lastmod>2022-09-25T14:45:22+08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://zhengleily.github.io/tag/random/</loc><lastmod>2022-09-25T14:45:22+08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://zhengleily.github.io/tags/</loc><lastmod>2022-09-25T14:45:22+08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://zhengleily.github.io/post/welcome_zack/</loc><lastmod>2022-09-25T14:45:22+08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://zhengleily.github.io/publication-type/1/</loc><lastmod>2021-05-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://zhengleily.github.io/publication_types/</loc><lastmod>2021-05-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://zhengleily.github.io/publication/</loc><lastmod>2021-05-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://zhengleily.github.io/publication/2021acc/</loc><lastmod>2021-05-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://zhengleily.github.io/publication/2020wcsp/</loc><lastmod>2020-12-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://zhengleily.github.io/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://zhengleily.github.io/category/demo/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://zhengleily.github.io/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://zhengleily.github.io/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://zhengleily.github.io/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://zhengleily.github.io/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://zhengleily.github.io/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://zhengleily.github.io/project/example/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://zhengleily.github.io/tag/autonomous-driving/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://zhengleily.github.io/project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://zhengleily.github.io/publication-type/2/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://zhengleily.github.io/publication/2021ral/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://zhengleily.github.io/publication/2022eaai/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://zhengleily.github.io/publication/2022ral/</loc><changefreq>weekly</changefreq></url></urlset>
+    <loc>http://zhengleily.github.io/tags/</loc>
+  </url>
+  
+</urlset>
